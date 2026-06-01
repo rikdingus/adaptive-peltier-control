@@ -1,0 +1,10 @@
+# Runtime logs and exported charts
+peltier_log_*.csv
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Local editor / tooling config
+.claude/
